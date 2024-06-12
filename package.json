@@ -5,6 +5,8 @@
   "module": "commonjs",
   "type": "module",
   "scripts": {
+    "publish": "nodemon pub.js",
+    "subscriber": "nodemon sub.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
